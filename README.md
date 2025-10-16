@@ -30,11 +30,7 @@ Examined age, glucose levels, BMI, and health conditions against stroke outcome
 📈 Key Insights
 
 Stroke occurrence was most frequent among older individuals (60+)
-
 Hypertension and heart disease showed strong correlations with stroke cases
-
 Average glucose level was noticeably higher among stroke patients
-
 Smoking status showed that individuals who formerly smoked had a noticeably higher rate of stroke occurrence compared to current or non-smokers.
-
 BMI showed a moderate relationship, with slightly higher stroke prevalence among individuals in higher BMI ranges.
