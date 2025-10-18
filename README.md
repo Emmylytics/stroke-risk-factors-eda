@@ -1,8 +1,15 @@
-Stroke Risk Factors: EDA
+#### Stroke Risk Factors: EDA
 
-This project investigates the major factors influencing stroke risk using a public health dataset. It includes data cleaning, visualization, and correlation analysis to highlight which features are most associated with stroke occurrences.
+This project explores the major factors influencing stroke risk using a public health dataset. It includes data cleaning, visualization, and correlation analysis to identify which features are most strongly associated with stroke occurrence.
 
-Tools
+---
+
+#### Tools
 - Python (Pandas, NumPy)
 - Seaborn / Matplotlib
 - Jupyter Notebook
+
+---
+
+#### 📊 Dataset
+Source: [Kaggle - Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
