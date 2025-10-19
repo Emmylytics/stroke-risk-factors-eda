@@ -11,5 +11,5 @@ This project explores the major factors influencing stroke risk using a public h
 
 ---
 
-#### 📊 Dataset
+#### Dataset
 Source: [Kaggle - Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
